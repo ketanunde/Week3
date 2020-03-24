@@ -65,3 +65,6 @@ my_stats <- function(values, parametric = TRUE, allow_print = FALSE)
 
 result <- my_stats(sample_vector, FALSE, TRUE)
 
+
+
+
